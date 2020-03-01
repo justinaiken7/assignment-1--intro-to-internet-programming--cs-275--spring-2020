@@ -2,4 +2,5 @@ body{
 	background-image: url("./../img/b1.jpg");
 	background-repeat: no-repeat, repeat;
 	position: relative;
+	background-position: center;
 }
