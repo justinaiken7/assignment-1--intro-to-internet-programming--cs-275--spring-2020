@@ -33,6 +33,7 @@ ol{
 	width: 95%; 
 	padding: 12px; 
 	border: 5px solid white; 
+	margin: 0; 
 }
 footer{
 	color: #ffea2e;
